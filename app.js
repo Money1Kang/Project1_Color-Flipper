@@ -53,4 +53,3 @@ function getRandomNumber(min, max) { //
 
 const xbx = Math.sqrt()
 
-con
